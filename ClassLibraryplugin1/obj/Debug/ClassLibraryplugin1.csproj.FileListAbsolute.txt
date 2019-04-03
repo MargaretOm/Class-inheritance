@@ -1,0 +1,9 @@
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\bin\Debug\ClassLibraryplugin1.dll
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\bin\Debug\ClassLibraryplugin1.pdb
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\bin\Debug\ClassLibrary1.dll
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\bin\Debug\ClassLibrary1.pdb
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\obj\Debug\ClassLibraryplugin1.csprojAssemblyReference.cache
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\obj\Debug\ClassLibraryplugin1.csproj.CoreCompileInputs.cache
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\obj\Debug\ClassLibraryplugin1.csproj.CopyComplete
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\obj\Debug\ClassLibraryplugin1.dll
+D:\work\Марго материалы\4 сем\ООТПиСП\LR2\WindowsFormsApp1\ClassLibraryplugin1\obj\Debug\ClassLibraryplugin1.pdb
